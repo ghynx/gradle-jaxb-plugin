@@ -31,6 +31,8 @@ import org.gradle.api.tasks.SourceSet
  *
  * nasty test just for fun on github
  *
+ * one more test
+ *
  */
 public class JaxbPlugin implements Plugin<Project> {
 
