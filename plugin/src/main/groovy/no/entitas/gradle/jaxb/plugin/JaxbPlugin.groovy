@@ -26,6 +26,12 @@ import org.gradle.api.tasks.SourceSet
  *
  * @author Stig Kleppe-Jørgensen
  */
+
+/**
+ *
+ * nasty test just for fun on github
+ *
+ */
 public class JaxbPlugin implements Plugin<Project> {
 
     private static final String GENERATE_GROUP = 'generate'
